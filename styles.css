@@ -1,0 +1,109 @@
+/*menu*/
+.container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 50px 260px 250px;
+    grid-gap: 0px;
+    grid-template-areas:
+      "h h h h h"
+      "c c c c c"
+      "f f f f f";
+  }
+  /*header*/
+  .header {
+    grid-area: h;
+    height: 100%;
+    display: flex;
+    background-color: none;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    padding: 5px 15px;
+  }
+  .item1 img {
+    width:150px;
+    height:180px;
+  }
+  .item3 {
+    text-align: center;
+    color: gray;
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bold;
+    float:left;
+    text-indent: 50px;
+  }
+  .item4 {
+    float:left;
+  }
+  .item4 img{
+    width:30px;
+    height:30px;
+  }
+  
+  /*contenido*/
+  .content {
+    grid-area: c;
+  }
+  .content img{
+    height: 250px;
+    width:250px; 
+    margin: 5px;
+    padding:3px;
+    float: left;
+    position:absolute; 
+    left: 60px;
+  }
+  .content p{
+    "float:right;
+    width:42px;
+    height:42px;
+    font-size:20px;
+    text-align:center;
+  }
+   /*contenido 1*/
+   .content1 {
+    grid-area: f;
+  }
+  .content1 img{
+    height: 300px;
+    width:250px; 
+    margin: 5px;
+    padding:3px;
+    float: left; 
+    position:absolute;
+    left: 170px;
+    top:200px;
+  }
+  .content1 h1{
+    "float:right;
+    font-size:50px;
+    text-align:center;
+  }
+  .content1 p{
+    "float:right;
+    width:42px;
+    height:42px;
+    font-size:14px;
+    text-align:center;
+  }
+  .content1 h1 p1 img{
+    height:300px;
+    width:611px; 
+    position: absolute;
+    left:657px;
+    top: 200px;
+    z-index: -1;
+  }
+  .content1 button {
+    background-color:blue;
+    border: none;
+    color: white;
+    padding: 7px 45px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px ;
+    border-radius:30px 30px 30px 30px;
+  }
+

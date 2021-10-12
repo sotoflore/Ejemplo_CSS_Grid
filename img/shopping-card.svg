@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.656" height="43.244" viewBox="0 0 48.656 43.244">
+  <g id="Grupo_5" data-name="Grupo 5" transform="translate(-1461.881 -506.756)">
+    <path id="Trazado_5" data-name="Trazado 5" d="M1463.381,508.256h9.862l8.583,29.585h24.654" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_6" data-name="Trazado 6" d="M1489.4,516.579h26.846l-6.209,18.628h-22.463" transform="translate(-7.206 -2.48)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Línea_5" data-name="Línea 5" x2="17.552" transform="translate(1483.123 519.661)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_6" data-name="Línea 6" x2="13.34" transform="translate(1485.23 525.98)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    <g id="Elipse_3" data-name="Elipse 3" transform="translate(1481 542)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+      <ellipse cx="3.5" cy="4" rx="3.5" ry="4" stroke="none"/>
+      <ellipse cx="3.5" cy="4" rx="2" ry="2.5" fill="none"/>
+    </g>
+    <g id="Elipse_4" data-name="Elipse 4" transform="translate(1498 542)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="2.5" fill="none"/>
+    </g>
+  </g>
+</svg>
